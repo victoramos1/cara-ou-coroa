@@ -1,5 +1,6 @@
 <h1>Projeto: Cara ou coroa</h1>
 
+![App em funcionamento](imagens/cara-ou-coroa.gif)
 
 <h2>Descrição do projeto</h2>
 
